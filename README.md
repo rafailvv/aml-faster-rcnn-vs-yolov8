@@ -48,7 +48,7 @@ Based on the official documentation of yolo and rotoflow, I was able to train th
 Yolov8 has slightly better mAP than RCNN.
 
 **Speed:**
-  - Faster RCNN: training for 24 epochs in 56 minutes
+  - Faster RCNN: training for 1500 iterations in 56 minutes
   - Yolov8: training for 24 epochs in 2 minutes
 
 Yolov8 is much faster than RCNN.
@@ -64,10 +64,10 @@ Yolov8 is much smaller than RCNN.
 
 # Resources
 
-- https://docs.roboflow.com
-- https://blog.roboflow.com/how-to-train-detectron2/
-- https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/
-- https://github.com/facebookresearch/detectron2
-- https://ultralytics.com/yolov8
-
-
+- https://arxiv.org/abs/1506.01497
+- https://github.com/pytorch/vision/blob/main/torchvision/models/detection/faster_rcnn.py
+- https://github.com/tensorflow/models/tree/master/research/object_detection
+- https://roboflow.com/
+- https://blog.roboflow.com/faster-rcnn/
+- https://arxiv.org/abs/2011.08036
+- https://github.com/WongKinYiu/yolov8
