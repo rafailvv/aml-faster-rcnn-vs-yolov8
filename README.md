@@ -18,29 +18,26 @@
 
 In this example, I have worked with objects such as a screwdriver and a wrench. Below are examples of data images of two types of objects:
 
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/fox.jpeg" alt="Fox" width="320"/><img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/spoon.jpeg" alt="Spoon" width="320"/>
+<img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/screwdriver.jpg" alt="Screwdriver" width="320"/><img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/wrench.jpg" alt="Wrench" width="320"/>
 
 # Annotation with roboflow
 
 Next, I annotated 100 made objects (50 of each type) using roboflow
 
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/annotation.png" alt="Annotation" width="1200"/>
+<img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/annotation_screwdriver.jpg" alt="Annotation Screwdriver" width="1200"/>
+<img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/annotation_wrench.jpg" alt="Annotation Wrench" width="1200"/>
+<img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/annotation_dataset.jpg" alt="Annotation Dataset" width="1200"/>
 
 # Faster RCNN using detectron2
 
 Based on the official detectron2 and roboflow documentation, I was able to train RCNN using detectron2.
 
-Sample predictions:
-
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/rcnn-preds-1.png" alt="preds" width="320"/><img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/rcnn-preds-2.png" alt="preds" width="320"/>
 
 # Yolov8
 
-Based on the official documentation of yolo and rotoflow, I was able to train the Yolov8 model/
+Based on the official documentation of yolo and rotoflow, I was able to train the Yolov8 model.
 
-Sample predictions:
-
-<img src="https://raw.githubusercontent.com/AlekseyKorshuk/aml-faster-rcnn-vs-yolovx/main/docs/yolo-preds.jpg" alt="preds" width="1200"/>
+<img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/yolo_results.png" alt="Yolov8 Results" width="800"/>
 
 # Comparison
 
