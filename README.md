@@ -12,7 +12,7 @@
 
 # Colab notebook 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ph5e2CnSSzz1PawlEmexuePMeGG2aadh?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16aX2Tz70sHWsM5S4wrgBgvuIeewuaUVV?usp=sharing)
 
 # Take photos of the environment
 
