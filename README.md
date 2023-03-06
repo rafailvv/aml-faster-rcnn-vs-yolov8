@@ -32,12 +32,14 @@ Next, I annotated 100 made objects (50 of each type) using roboflow
 
 Based on the official detectron2 and roboflow documentation, I was able to train RCNN using detectron2.
 
+<img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/rcnn_results.PNG" alt="RCNN Results" width="800"/>
 
 # Yolov8
 
 Based on the official documentation of yolo and rotoflow, I was able to train the Yolov8 model.
 
 <img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/yolo_results.png" alt="Yolov8 Results" width="800"/>
+<img src="https://github.com/rafailvv/aml-faster-rcnn-vs-yolov8/blob/main/examples/yolo_results2.PNG" alt="Yolov8 Results 2" width="800"/>
 
 # Comparison
 
